@@ -31,3 +31,6 @@ Some of the tasks of a Lexical Analyzer:
    2. Group characters into tokens
    3. Send tokens to the parser for syntax analysis
    4. Report lexical errors (like invalid characters)
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/d72e470d-3bac-428d-ae5e-918d2894f3fa)
