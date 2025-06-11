@@ -1,3 +1,5 @@
+#COMPILER DESIGN BASICS
+
 #COMPANY: CODTECH IT SOLUTIONS
 
 #NAME: DIKSHA KUMARI
@@ -14,7 +16,7 @@
 
 In C, the lexical analysis phase is the first phase of the compilation process. In this step, the lexical analyzer (also known as the lexer) breaks the code into tokens, which are the smallest individual 
 units in terms of programming. In the lexical analysis phase, we parse the input string, removing the whitespaces. It also helps in simplifying the subsequent stages. In this step, we do not check for the
-syntax of the code. Our main focus is to break down the code into small tokens.
+syntax of the code. Our main focus is to break down the code into small tokens.The lexical Analyser function parses the input code and then prints all the tokens identified by the program with their corresponding values. The lexical analyzer's major focus is on breaking down the code and identifying the tokens.
 A lexical analyzer (also called a lexer or scanner) is the first phase of a compiler. Its main job is to read the source code and convert it into a sequence of tokens. These tokens are meaningful elements like:
 
    (a). Keywords (e.g., int, while, if)
